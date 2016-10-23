@@ -18,6 +18,7 @@ namespace Zadatci_2_i_3
             this.currentIndex = -1;
         }
 
+
         public T Current
         {
             get
@@ -36,12 +37,12 @@ namespace Zadatci_2_i_3
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            //Console.WriteLine("Dispose called!");
         }
 
         public bool MoveNext()
         {
-            if (currentIndex < list.Count)
+            if (currentIndex+1 < list.Count)
             {
                 currentIndex++;
                 return true;

@@ -14,11 +14,21 @@ namespace Zadatci_2_i_3
             stringList.Add(" Hello ");
             stringList.Add(" World ");
             stringList.Add("!");
-            foreach (string value in stringList)
+            try
             {
-                Console.WriteLine(value);
+                foreach (string value in stringList)
+                {
+                    Console.WriteLine(value);
+                }
             }
-            Console.ReadLine();
+            catch( Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
         }
     }
 }
