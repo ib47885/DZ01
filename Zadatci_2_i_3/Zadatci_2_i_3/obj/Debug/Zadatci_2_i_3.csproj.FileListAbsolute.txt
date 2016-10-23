@@ -1,0 +1,5 @@
+c:\users\win7\documents\visual studio 2015\Projects\Zadatci_2_i_3\Zadatci_2_i_3\bin\Debug\Zadatci_2_i_3.exe.config
+c:\users\win7\documents\visual studio 2015\Projects\Zadatci_2_i_3\Zadatci_2_i_3\bin\Debug\Zadatci_2_i_3.exe
+c:\users\win7\documents\visual studio 2015\Projects\Zadatci_2_i_3\Zadatci_2_i_3\bin\Debug\Zadatci_2_i_3.pdb
+c:\users\win7\documents\visual studio 2015\Projects\Zadatci_2_i_3\Zadatci_2_i_3\obj\Debug\Zadatci_2_i_3.exe
+c:\users\win7\documents\visual studio 2015\Projects\Zadatci_2_i_3\Zadatci_2_i_3\obj\Debug\Zadatci_2_i_3.pdb

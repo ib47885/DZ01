@@ -1,0 +1,6 @@
+c:\users\win7\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+c:\users\win7\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+c:\users\win7\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+c:\users\win7\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+c:\users\win7\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
