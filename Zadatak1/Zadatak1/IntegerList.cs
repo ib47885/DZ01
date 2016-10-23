@@ -44,6 +44,7 @@ namespace Zadatak1
             _numberOfStoredElements++;
         }
 
+        //uklanja samo prvi item? ili sve??? ...
         public bool Remove(int item)
         {
             bool found = false;
@@ -81,6 +82,7 @@ namespace Zadatak1
             return _internalStorage[index];
         }
 
+        //index prvog pojavljivanja itema...
         public int IndexOf(int item)
         {
             for (int i = 0; i < _numberOfStoredElements; ++i)
@@ -93,6 +95,7 @@ namespace Zadatak1
 
             return -1;
         }
+
 
         public int Count
         {
